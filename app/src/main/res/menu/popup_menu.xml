@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:onClick="earthClicked"
+        android:title="Earth"></item>
+
+    <item
+        android:title="Sun"
+        android:onClick="sunClicked">
+    </item>
+
+    <item
+        android:title="Mars"
+        android:onClick="marsClicked">
+    </item>
+
+    <item
+        android:title="Moon"
+        android:onClick="moonClicked">
+    </item>
+
+
+</menu>
